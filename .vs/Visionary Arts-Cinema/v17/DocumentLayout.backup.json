@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|g:\\mi unidad\\proyecto-basico-crud\\visionary arts-cinema\\gestiondeusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|solutionrelative:gestiondeusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|g:\\mi unidad\\proyecto-basico-crud\\visionary arts-cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|g:\\mi unidad\\proyecto-basico-crud\\visionary arts-cinema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|g:\\mi unidad\\proyecto-basico-crud\\visionary arts-cinema\\gestionderoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|solutionrelative:gestionderoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|g:\\mi unidad\\proyecto-basico-crud\\visionary arts-cinema\\gestiondeusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|solutionrelative:gestiondeusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A593185C-73D6-48B1-8A98-36F38EA99C5F}|Visionary Arts-Cinema.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestiondeUsuarios.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\GestiondeUsuarios.cs",
+              "RelativeDocumentMoniker": "GestiondeUsuarios.cs",
+              "ToolTip": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\GestiondeUsuarios.cs",
+              "RelativeToolTip": "GestiondeUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:09:18.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestiondeUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\GestiondeUsuarios.cs",
+              "RelativeDocumentMoniker": "GestiondeUsuarios.cs",
+              "ToolTip": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\GestiondeUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestiondeUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:43:46.612Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestiondeRoles.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\GestiondeRoles.cs",
+              "RelativeDocumentMoniker": "GestiondeRoles.cs",
+              "ToolTip": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\GestiondeRoles.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestiondeRoles.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:38:13.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:35:39.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:05:39.943Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Mi unidad\\Proyecto-basico-CRUD\\Visionary Arts-Cinema\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:05:52.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

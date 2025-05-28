@@ -1,0 +1,12 @@
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\bin\Debug\Visionary Arts-Cinema.exe.config
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\bin\Debug\Visionary Arts-Cinema.exe
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\bin\Debug\Visionary Arts-Cinema.pdb
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.csproj.AssemblyReference.cache
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.Form1.resources
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.Properties.Resources.resources
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.csproj.GenerateResource.cache
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.exe
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.pdb
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeRoles.resources
+G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeUsuarios.resources
