@@ -58,6 +58,12 @@
     <Compile Include="GestiondeRoles.Designer.cs">
       <DependentUpon>GestiondeRoles.cs</DependentUpon>
     </Compile>
+    <Compile Include="GestiondeSalas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GestiondeSalas.Designer.cs">
+      <DependentUpon>GestiondeSalas.cs</DependentUpon>
+    </Compile>
     <Compile Include="GestiondeUsuarios.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GestiondeRoles.resx">
       <DependentUpon>GestiondeRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestiondeSalas.resx">
+      <DependentUpon>GestiondeSalas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GestiondeUsuarios.resx">
       <DependentUpon>GestiondeUsuarios.cs</DependentUpon>

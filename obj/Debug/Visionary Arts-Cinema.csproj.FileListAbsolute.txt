@@ -10,3 +10,16 @@ G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts
 G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.pdb
 G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeRoles.resources
 G:\Mi unidad\Proyecto-basico-CRUD\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeUsuarios.resources
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\bin\Debug\Visionary Arts-Cinema.exe.config
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\bin\Debug\Visionary Arts-Cinema.exe
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\bin\Debug\Visionary Arts-Cinema.pdb
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.Form1.resources
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeRoles.resources
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeUsuarios.resources
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.csproj.GenerateResource.cache
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.exe
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary Arts-Cinema.pdb
+C:\Users\Estudiante\Downloads\Visionary Arts-Cinema\obj\Debug\Visionary_Arts_Cinema.GestiondeSalas.resources

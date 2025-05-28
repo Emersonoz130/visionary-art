@@ -30,7 +30,7 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnCerrarSesion = new System.Windows.Forms.Button();
-            this.btnGestionReportes = new System.Windows.Forms.Button();
+            this.btnBoletos = new System.Windows.Forms.Button();
             this.btnGestionPeliculas = new System.Windows.Forms.Button();
             this.btnGestionSalas = new System.Windows.Forms.Button();
             this.btnGestionRoles = new System.Windows.Forms.Button();
@@ -44,7 +44,7 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.btnCerrarSesion);
-            this.panel1.Controls.Add(this.btnGestionReportes);
+            this.panel1.Controls.Add(this.btnBoletos);
             this.panel1.Controls.Add(this.btnGestionPeliculas);
             this.panel1.Controls.Add(this.btnGestionSalas);
             this.panel1.Controls.Add(this.btnGestionRoles);
@@ -70,20 +70,20 @@
             this.btnCerrarSesion.Text = "Cerrar Sesión";
             this.btnCerrarSesion.UseVisualStyleBackColor = false;
             // 
-            // btnGestionReportes
+            // btnBoletos
             // 
-            this.btnGestionReportes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(92)))), ((int)(((byte)(102)))));
-            this.btnGestionReportes.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnGestionReportes.FlatAppearance.BorderSize = 15;
-            this.btnGestionReportes.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnGestionReportes.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGestionReportes.ForeColor = System.Drawing.Color.White;
-            this.btnGestionReportes.Location = new System.Drawing.Point(0, 317);
-            this.btnGestionReportes.Name = "btnGestionReportes";
-            this.btnGestionReportes.Size = new System.Drawing.Size(144, 67);
-            this.btnGestionReportes.TabIndex = 4;
-            this.btnGestionReportes.Text = "Reportes";
-            this.btnGestionReportes.UseVisualStyleBackColor = false;
+            this.btnBoletos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(92)))), ((int)(((byte)(102)))));
+            this.btnBoletos.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnBoletos.FlatAppearance.BorderSize = 15;
+            this.btnBoletos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnBoletos.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBoletos.ForeColor = System.Drawing.Color.White;
+            this.btnBoletos.Location = new System.Drawing.Point(0, 317);
+            this.btnBoletos.Name = "btnBoletos";
+            this.btnBoletos.Size = new System.Drawing.Size(144, 67);
+            this.btnBoletos.TabIndex = 4;
+            this.btnBoletos.Text = "Gestion de Boletos";
+            this.btnBoletos.UseVisualStyleBackColor = false;
             // 
             // btnGestionPeliculas
             // 
@@ -115,6 +115,7 @@
             this.btnGestionSalas.TabIndex = 2;
             this.btnGestionSalas.Text = "Gestión de salas";
             this.btnGestionSalas.UseVisualStyleBackColor = false;
+            this.btnGestionSalas.Click += new System.EventHandler(this.btnGestionSalas_Click);
             // 
             // btnGestionRoles
             // 
@@ -198,7 +199,7 @@
         private System.Windows.Forms.Button btnGestionSalas;
         private System.Windows.Forms.Button btnGestionRoles;
         private System.Windows.Forms.Button btnCerrarSesion;
-        private System.Windows.Forms.Button btnGestionReportes;
+        private System.Windows.Forms.Button btnBoletos;
         private System.Windows.Forms.Button btnGestionPeliculas;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label1;

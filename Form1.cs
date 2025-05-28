@@ -35,5 +35,12 @@ namespace Visionary_Arts_Cinema
             panel2.Controls.Clear();
             panel2.Controls.Add(gestionRoles);
         }
+
+        private void btnGestionSalas_Click(object sender, EventArgs e)
+        {
+            GestiondeSalas gestionSalas = new GestiondeSalas();
+            panel2.Controls.Clear();
+            panel2.Controls.Add(gestionSalas);
+        }
     }
 }
